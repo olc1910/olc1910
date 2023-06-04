@@ -10,8 +10,8 @@ and for sure this Languages :D
 <a>
 <img align="left" alt="Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olc1910&layout=compact&langs_count=10&show_icons=true&hide_border=true&theme=radical"/>
 </a>
-<a>
+<b>
 <img align="left" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=olc1910&show_icons=true&hide_border=true&theme=radical"/>
-</a>
+</b>
 
 Discord: Blackii2#1438
