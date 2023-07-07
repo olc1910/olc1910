@@ -14,4 +14,4 @@ and for sure this Languages :D
 <img align="left" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=olc1910&show_icons=true&hide_border=true&theme=radical"/>
 </b>
 
-Discord: Blackii2#1438
+Discord: blackii2
