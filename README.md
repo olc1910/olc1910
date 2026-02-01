@@ -17,7 +17,7 @@ My journey started with:
 
 **Quick facts:**
 - 🌍 Based in **Hamburg**
-- ✉️ Contact: [otis.crossley@gmx.de](mailto:otis.crossley@gmx.de)
+- ✉️ Contact: [contact@olcrossley.uk](mailto:contact@olcrossley.uk)
 - 🧠 Currently learning **PHP, Docker & server infrastructure**
 - 🤝 Open to collaborating on **cool project ideas**
 
