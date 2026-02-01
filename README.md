@@ -2,10 +2,10 @@
 # Hi 👋 My name is Otis C.
 ## Hobby experimental Developer
 I'm a experimental hobby Developer, who uses its leisure time on Coding, little fun Projects in PHP, HTML, CSS, JavaScript, Python, Java and Kotlin. Everything started with Minecraft Client with Java Developing to Python, to Minecraft Plugin Development with Java and Kotlin, to Web Development, to skript automatations for a Company.
-* 🌍  I'm based in Hamburg*
-* ✉️  You can contact me at [otis.crossley@gmx.de](mailto:otis.crossley@gmx.de)*
-* 🧠  I'm learning PHP, Docker, and a lot about servers*
-* 🤝  I'm open to collaborating on cool project ideas*
+* 🌍  I'm based in Hamburg
+* ✉️  You can contact me at [otis.crossley@gmx.de](mailto:otis.crossley@gmx.de)
+* 🧠  I'm learning PHP, Docker, and a lot about servers
+* 🤝  I'm open to collaborating on cool project ideas
 
 ## Hobby sound engineer
 I'm also working (sometimes) as a sound engineer in some local music venues. There i'm not specified on a single part of sound engineering, because it's so small i can run a gig on my own, but most of the time i'm working at the FOH
